@@ -1,0 +1,6 @@
+RESPONSIVO:
+max-width: largura maxima da area de exibicao,como uma janela do navegador
+
+min-width:largura minima da area de exibicao,como uma janela de navegador.
+
+@media:um grupo de regras condicional que e aplicado ao conteudo caso o dispositivo de exibicao atenda com a condicao de media defina. 
